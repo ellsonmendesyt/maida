@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="105" height="24" viewBox="0 0 105 24" fill="none" class="injected-svg" data-src="/icons/pink.svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M0.499992 24H95.634C100.532 24 104.5 18.6292 104.5 12C104.5 5.37077 100.532 0 95.634 0H0.499992" fill="url(&quot;#paint0_linear-122&quot;)"></path>
+<defs>
+<linearGradient id="paint0_linear-122" x1="104.502" y1="11.9987" x2="0.500241" y2="11.9987" gradientUnits="userSpaceOnUse">
+<stop offset="0.00210851" stop-color="#FF0073"></stop>
+<stop offset="1" stop-color="#FF00F0" stop-opacity="0"></stop>
+</linearGradient>
+<linearGradient id="paint0_linear-122" x1="104.502" y1="11.9987" x2="0.500241" y2="11.9987" gradientUnits="userSpaceOnUse">
+<stop offset="0.00210851" stop-color="#FF0073"></stop>
+<stop offset="1" stop-color="#FF00F0" stop-opacity="0"></stop>
+</linearGradient></defs>
+</svg>

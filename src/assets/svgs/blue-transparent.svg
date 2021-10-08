@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="104" height="24" viewBox="0 0 104 24" fill="none" class="injected-svg" data-src="/icons/purple.svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<path d="M-7.62939e-06 24H95.134C100.032 24 104 18.6292 104 12C104 5.37077 100.032 0 95.134 0H-7.62939e-06" fill="url(&quot;#paint0_linear-114&quot;)"></path>
+<defs>
+<linearGradient id="paint0_linear-114" x1="104.002" y1="11.998" x2="0.000240896" y2="11.998" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2E48C8"></stop>
+<stop offset="1" stop-color="#2E0087" stop-opacity="0"></stop>
+</linearGradient>
+<linearGradient id="paint0_linear-114" x1="104.002" y1="11.998" x2="0.000240896" y2="11.998" gradientUnits="userSpaceOnUse">
+<stop stop-color="#2E48C8"></stop>
+<stop offset="1" stop-color="#2E0087" stop-opacity="0"></stop>
+</linearGradient></defs>
+</svg>
